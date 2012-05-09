@@ -53,6 +53,7 @@ public abstract class RenderScriptWallpaper<T extends RenderScriptScene> extends
                 mRenderer = null;
             }
             if (mRs != null) {
+                mRs.setSurface(null, 0, 0);
                 mRs.destroy();
                 mRs = null;
             }
