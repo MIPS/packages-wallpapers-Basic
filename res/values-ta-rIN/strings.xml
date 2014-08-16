@@ -38,7 +38,7 @@
     <string name="wallpaper_nexus" msgid="3789061608411260304">"நெக்சஸ்"</string>
     <string name="wallpaper_nexus_author" msgid="8492858637541249441">"Google"</string>
     <string name="wallpaper_nexus_desc" msgid="5562598238151885905">"நரம்பியல் வலையமைப்பின் கண்ணோட்டம்."</string>
-    <string name="clock_settings" msgid="7837858747417927288">"போலார் கடிகார அமைப்புகள்"</string>
+    <string name="clock_settings" msgid="7837858747417927288">"போலார் கடிகார அமைப்பு"</string>
     <string name="show_seconds" msgid="8525899907567218168">"வினாடிகளைக் காட்டு"</string>
     <string name="variable_line_width" msgid="8487094734462263605">"மாறுபடும் வளைவு அகலங்கள்"</string>
     <string name="palette" msgid="1636154448241520718">"வண்ணத் தட்டு"</string>
