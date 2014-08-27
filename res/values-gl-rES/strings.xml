@@ -23,21 +23,9 @@
     <string name="wallpaper_walkaround" msgid="5548084303782181478">"Ver a través"</string>
     <string name="wallpaper_walkaround_author" msgid="7292960549371044078">"Google"</string>
     <string name="wallpaper_walkaround_desc" msgid="1714824320382778730">"Podes ver a través do teléfono e camiñar sen risco de sufrir accidentes."</string>
-    <string name="wallpaper_grass" msgid="4753389782988032116">"Herba"</string>
-    <string name="wallpaper_grass_author" msgid="9197652780831360471">"Google"</string>
-    <string name="wallpaper_grass_desc" msgid="7808225799564607409">"Follas de herba a cimbrar paseniño baixo un ceo diúrno ou nocturno."</string>
-    <string name="wallpaper_galaxy" msgid="4698294375306738428">"Galaxia"</string>
-    <string name="wallpaper_galaxy_author" msgid="5455561260819111338">"Google"</string>
-    <string name="wallpaper_galaxy_desc" msgid="6816969378845338629">"Unha galaxia formada por estrelas que xiran lentamente."</string>
-    <string name="wallpaper_fall" msgid="1500920940722360941">"Auga"</string>
-    <string name="wallpaper_fall_author" msgid="8860429843949521342">"Google"</string>
-    <string name="wallpaper_fall_desc" msgid="595888373487204297">"Follas que caen no outono&lt;br&gt; nun lago que ondea:&lt;br&gt; fondo líquido zen"</string>
     <string name="wallpaper_clock" msgid="6555051461698958610">"Reloxo polar"</string>
     <string name="wallpaper_clock_author" msgid="8779094427834551330">"Google"</string>
     <string name="wallpaper_clock_desc" msgid="6767980298898740026">"Mostra a data e a hora como arcos no sentido das agullas do reloxo: mes, día, hora, minuto e segundo."</string>
-    <string name="wallpaper_nexus" msgid="3789061608411260304">"Nexus"</string>
-    <string name="wallpaper_nexus_author" msgid="8492858637541249441">"Google"</string>
-    <string name="wallpaper_nexus_desc" msgid="5562598238151885905">"Unha ollada ao sistema neural."</string>
     <string name="clock_settings" msgid="7837858747417927288">"Configuración do reloxo polar"</string>
     <string name="show_seconds" msgid="8525899907567218168">"Mostrar segundos"</string>
     <string name="variable_line_width" msgid="8487094734462263605">"Larguras de anel variables"</string>

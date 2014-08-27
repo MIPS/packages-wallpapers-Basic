@@ -23,21 +23,9 @@
     <string name="wallpaper_walkaround" msgid="5548084303782181478">"கேமரா காட்சி"</string>
     <string name="wallpaper_walkaround_author" msgid="7292960549371044078">"Google"</string>
     <string name="wallpaper_walkaround_desc" msgid="1714824320382778730">"உங்கள் மொபைல் வழியாகப் பார்க்கவும், மேலும் விபத்துகளின் பாதிப்பு இல்லாமல் நடந்து செல்லவும்."</string>
-    <string name="wallpaper_grass" msgid="4753389782988032116">"புல்"</string>
-    <string name="wallpaper_grass_author" msgid="9197652780831360471">"Google"</string>
-    <string name="wallpaper_grass_desc" msgid="7808225799564607409">"புல்வெளிகளின் நுனி பகல் அல்லது இரவுநேர வானில் மெதுவாக அசையும்."</string>
-    <string name="wallpaper_galaxy" msgid="4698294375306738428">"கேலக்ஸி"</string>
-    <string name="wallpaper_galaxy_author" msgid="5455561260819111338">"Google"</string>
-    <string name="wallpaper_galaxy_desc" msgid="6816969378845338629">"மெதுவாக சுற்றிவரும் நட்சத்திரங்களால் உருவான கேலக்ஸி."</string>
-    <string name="wallpaper_fall" msgid="1500920940722360941">"நீர்"</string>
-    <string name="wallpaper_fall_author" msgid="8860429843949521342">"Google"</string>
-    <string name="wallpaper_fall_desc" msgid="595888373487204297">"இலையுதிர் காலத்தில் இலைகள் கீழே விழுதல்&lt;br&gt; கீழே உள்ள குளத்தில் வட்டமாக தோன்றுதல்:&lt;br&gt; திரவத்தினாலான பின்புலம் ஜென்"</string>
     <string name="wallpaper_clock" msgid="6555051461698958610">"போலார் கடிகாரம்"</string>
     <string name="wallpaper_clock_author" msgid="8779094427834551330">"Google"</string>
     <string name="wallpaper_clock_desc" msgid="6767980298898740026">"தேதி மற்றும் நேரத்தை கடிகாரத் திசையில் வழங்குகிறது: மாதம், நாள், மணிநேரம், நிமிடம் மற்றும் வினாடி."</string>
-    <string name="wallpaper_nexus" msgid="3789061608411260304">"நெக்சஸ்"</string>
-    <string name="wallpaper_nexus_author" msgid="8492858637541249441">"Google"</string>
-    <string name="wallpaper_nexus_desc" msgid="5562598238151885905">"நரம்பியல் வலையமைப்பின் கண்ணோட்டம்."</string>
     <string name="clock_settings" msgid="7837858747417927288">"போலார் கடிகார அமைப்புகள்"</string>
     <string name="show_seconds" msgid="8525899907567218168">"வினாடிகளைக் காட்டு"</string>
     <string name="variable_line_width" msgid="8487094734462263605">"மாறுபடும் வளைவு அகலங்கள்"</string>

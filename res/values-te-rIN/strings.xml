@@ -23,21 +23,9 @@
     <string name="wallpaper_walkaround" msgid="5548084303782181478">"ఇందులో చూడండి"</string>
     <string name="wallpaper_walkaround_author" msgid="7292960549371044078">"Google"</string>
     <string name="wallpaper_walkaround_desc" msgid="1714824320382778730">"మీ ఫోన్ ద్వారా చూడండి మరియు ప్రమాదాలు సంభవించే అవకాశం లేకుండా ముందుకు సాగండి."</string>
-    <string name="wallpaper_grass" msgid="4753389782988032116">"పచ్చిక"</string>
-    <string name="wallpaper_grass_author" msgid="9197652780831360471">"Google"</string>
-    <string name="wallpaper_grass_desc" msgid="7808225799564607409">"పగటిపూట లేదా రాత్రిపూట ఆకాశం కింద గడ్డి పరకలు నెమ్మదిగా కదలడం."</string>
-    <string name="wallpaper_galaxy" msgid="4698294375306738428">"నక్షత్ర మండలం"</string>
-    <string name="wallpaper_galaxy_author" msgid="5455561260819111338">"Google"</string>
-    <string name="wallpaper_galaxy_desc" msgid="6816969378845338629">"నెమ్మదిగా కదులుతున్న నక్షత్రాలతో రూపొందిన నక్షత్ర మండలం."</string>
-    <string name="wallpaper_fall" msgid="1500920940722360941">"నీరు"</string>
-    <string name="wallpaper_fall_author" msgid="8860429843949521342">"Google"</string>
-    <string name="wallpaper_fall_desc" msgid="595888373487204297">"శరదృతువులో ఆకులు అలలు గల&lt;br&gt; కొలనులో క్రిందికి రాలడం:&lt;br&gt; ద్రవరూప నేపథ్యపు జెన్"</string>
     <string name="wallpaper_clock" msgid="6555051461698958610">"పోలార్ గడియారం"</string>
     <string name="wallpaper_clock_author" msgid="8779094427834551330">"Google"</string>
     <string name="wallpaper_clock_desc" msgid="6767980298898740026">"తేదీ మరియు సమయాన్ని సవ్యదిశ చాపాల వలె ప్రదర్శిస్తుంది: నెల, రోజు, గంట, నిమిషం మరియు సెకను."</string>
-    <string name="wallpaper_nexus" msgid="3789061608411260304">"Nexus"</string>
-    <string name="wallpaper_nexus_author" msgid="8492858637541249441">"Google"</string>
-    <string name="wallpaper_nexus_desc" msgid="5562598238151885905">"నాడీ వ్యవస్థ లోపల స్వరూపం."</string>
     <string name="clock_settings" msgid="7837858747417927288">"పోలార్ గడియారం సెట్టింగ్‌లు"</string>
     <string name="show_seconds" msgid="8525899907567218168">"సెకన్లను చూపు"</string>
     <string name="variable_line_width" msgid="8487094734462263605">"రింగ్ వెడల్పులను మార్చు"</string>
