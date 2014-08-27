@@ -23,21 +23,9 @@
     <string name="wallpaper_walkaround" msgid="5548084303782181478">"ጠለቅ ብለው ይመልከቱ"</string>
     <string name="wallpaper_walkaround_author" msgid="7292960549371044078">"Google"</string>
     <string name="wallpaper_walkaround_desc" msgid="1714824320382778730">"በስልክዎ ውስጥ ጠለቅ ብለው ይመልከቱ፤ ለአደጋ ሳይጋለጡ ይጓዙ።"</string>
-    <string name="wallpaper_grass" msgid="4753389782988032116">"ሣር"</string>
-    <string name="wallpaper_grass_author" msgid="9197652780831360471">"Google"</string>
-    <string name="wallpaper_grass_desc" msgid="7808225799564607409">"የሳር ዝንጣፊ በቀን ወይም ማታ ሰማይ ስር ሲዘናፈል።"</string>
-    <string name="wallpaper_galaxy" msgid="4698294375306738428">"ጋላክሲ"</string>
-    <string name="wallpaper_galaxy_author" msgid="5455561260819111338">"Google"</string>
-    <string name="wallpaper_galaxy_desc" msgid="6816969378845338629">"በቀስታ በሚዞሩ ኮከቦች የተሰራ ጋላክሲ።"</string>
-    <string name="wallpaper_fall" msgid="1500920940722360941">"ውሀ"</string>
-    <string name="wallpaper_fall_author" msgid="8860429843949521342">"Google"</string>
-    <string name="wallpaper_fall_desc" msgid="595888373487204297">"Autumn leaves tumble&lt;br&gt; To the rippling pond below:&lt;br&gt; Liquid background Zen"</string>
     <string name="wallpaper_clock" msgid="6555051461698958610">"የዋልታ ሰዓት"</string>
     <string name="wallpaper_clock_author" msgid="8779094427834551330">"Google"</string>
     <string name="wallpaper_clock_desc" msgid="6767980298898740026">"ቀኑን እና ሰዓቱን እንደ ሰዓት አቅጣጫ ያቀርባል፡ ወር፣ ቀን፣ ሰዓት፣ ደቂቃ፣ እና ሴኮንድ"</string>
-    <string name="wallpaper_nexus" msgid="3789061608411260304">"Nexus"</string>
-    <string name="wallpaper_nexus_author" msgid="8492858637541249441">"Google"</string>
-    <string name="wallpaper_nexus_desc" msgid="5562598238151885905">"አውታረመረብ ትስስር ውስጥ አጮልቆ ተመለከተ"</string>
     <string name="clock_settings" msgid="7837858747417927288">"የዋልታ ሰዓት ቅንብሮች"</string>
     <string name="show_seconds" msgid="8525899907567218168">"ሰከንዶች አሳይ"</string>
     <string name="variable_line_width" msgid="8487094734462263605">"የቀለበት ስፋቶችን ለያይ"</string>

@@ -23,21 +23,9 @@
     <string name="wallpaper_walkaround" msgid="5548084303782181478">"इसके द्वारा देखें"</string>
     <string name="wallpaper_walkaround_author" msgid="7292960549371044078">"Google"</string>
     <string name="wallpaper_walkaround_desc" msgid="1714824320382778730">"अपने फ़ोन के द्वारा देखें और दुर्घटना का जोखिम लिए बिना चलें."</string>
-    <string name="wallpaper_grass" msgid="4753389782988032116">"घास"</string>
-    <string name="wallpaper_grass_author" msgid="9197652780831360471">"Google"</string>
-    <string name="wallpaper_grass_desc" msgid="7808225799564607409">"घास के तिनके रात या दिन आसमान के सामने हौले से हिलोरे ले रहे हैं."</string>
-    <string name="wallpaper_galaxy" msgid="4698294375306738428">"आकाशगंगा"</string>
-    <string name="wallpaper_galaxy_author" msgid="5455561260819111338">"Google"</string>
-    <string name="wallpaper_galaxy_desc" msgid="6816969378845338629">"धीमी गति से चक्‍कर काटते तारों से बनी आकाशगंगा."</string>
-    <string name="wallpaper_fall" msgid="1500920940722360941">"पानी"</string>
-    <string name="wallpaper_fall_author" msgid="8860429843949521342">"Google"</string>
-    <string name="wallpaper_fall_desc" msgid="595888373487204297">"शरद में गिरती पत्तियां&lt;br&gt; नीचे नन्ही लहरों वाले जलाशय में:&lt;br&gt; तरल पृष्ठभूमि ज़ेन"</string>
     <string name="wallpaper_clock" msgid="6555051461698958610">"ध्रुवीय घड़ी"</string>
     <string name="wallpaper_clock_author" msgid="8779094427834551330">"Google"</string>
     <string name="wallpaper_clock_desc" msgid="6767980298898740026">"दिनांक और समय को घड़ी की दिशा वाले चाप में दिखाता है: माह, दिन, घंटा, मिनट, और सेकंड."</string>
-    <string name="wallpaper_nexus" msgid="3789061608411260304">"Nexus"</string>
-    <string name="wallpaper_nexus_author" msgid="8492858637541249441">"Google"</string>
-    <string name="wallpaper_nexus_desc" msgid="5562598238151885905">"स्नायु नेटवर्क के अंदर की एक झलक."</string>
     <string name="clock_settings" msgid="7837858747417927288">"Polar clock settings"</string>
     <string name="show_seconds" msgid="8525899907567218168">"सेकंड दर्शाएं"</string>
     <string name="variable_line_width" msgid="8487094734462263605">"Vary ring widths"</string>

@@ -23,21 +23,9 @@
     <string name="wallpaper_walkaround" msgid="5548084303782181478">"স্বচ্ছ"</string>
     <string name="wallpaper_walkaround_author" msgid="7292960549371044078">"Google"</string>
     <string name="wallpaper_walkaround_desc" msgid="1714824320382778730">"আপনার ফোনের ভিতরে দিয়ে তাকানো এবং কোনো দুর্ঘটনার ঝুঁকি ছাড়াই চারপাশে পায়চারি করা৷"</string>
-    <string name="wallpaper_grass" msgid="4753389782988032116">"ঘাস"</string>
-    <string name="wallpaper_grass_author" msgid="9197652780831360471">"Google"</string>
-    <string name="wallpaper_grass_desc" msgid="7808225799564607409">"একটি দিন বা রাতের আকাশের সামনে মৃদুভাবে তরঙ্গায়িত ঘাসের শিক্সগুলি৷"</string>
-    <string name="wallpaper_galaxy" msgid="4698294375306738428">"নীহারিকা"</string>
-    <string name="wallpaper_galaxy_author" msgid="5455561260819111338">"Google"</string>
-    <string name="wallpaper_galaxy_desc" msgid="6816969378845338629">"ধীর গতিতে ঘূর্ণয়মান নক্ষত্রগুলির দ্বারা একটি নীহারিকা তৈরি হয়৷"</string>
-    <string name="wallpaper_fall" msgid="1500920940722360941">"জল"</string>
-    <string name="wallpaper_fall_author" msgid="8860429843949521342">"Google"</string>
-    <string name="wallpaper_fall_desc" msgid="595888373487204297">"শরতের পাতার ডিগবাজি খেয়ে পড়া&lt;br&gt; নীচের তরঙ্গায়িত পুকুরে:&lt;br&gt; তরল পটভূমির জেন"</string>
     <string name="wallpaper_clock" msgid="6555051461698958610">"পোলার ঘড়ি"</string>
     <string name="wallpaper_clock_author" msgid="8779094427834551330">"Google"</string>
     <string name="wallpaper_clock_desc" msgid="6767980298898740026">"ঘড়ির কাঁটার বৃত্তের পরিধির অংশের হিসাবে তারিখ এবং সময় দেখায়: মাস, দিন, ঘন্টা, মিনিট, এবং সেকেন্ড৷"</string>
-    <string name="wallpaper_nexus" msgid="3789061608411260304">"নেক্সাস"</string>
-    <string name="wallpaper_nexus_author" msgid="8492858637541249441">"Google"</string>
-    <string name="wallpaper_nexus_desc" msgid="5562598238151885905">"নিউরাল নেটওয়ার্কের ভিতরে একটা উঁকি৷"</string>
     <string name="clock_settings" msgid="7837858747417927288">"পোলার ঘড়ি সেটিংস"</string>
     <string name="show_seconds" msgid="8525899907567218168">"সেকেন্ড দেখান"</string>
     <string name="variable_line_width" msgid="8487094734462263605">"পরিবর্তনশীল রিং প্রস্থ"</string>

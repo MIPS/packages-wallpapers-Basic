@@ -23,21 +23,9 @@
     <string name="wallpaper_walkaround" msgid="5548084303782181478">"Jarang"</string>
     <string name="wallpaper_walkaround_author" msgid="7292960549371044078">"Google"</string>
     <string name="wallpaper_walkaround_desc" msgid="1714824320382778730">"Lihat melalui telefon anda dan berjalan tanpa risiko kemalangan."</string>
-    <string name="wallpaper_grass" msgid="4753389782988032116">"Rumput"</string>
-    <string name="wallpaper_grass_author" msgid="9197652780831360471">"Google"</string>
-    <string name="wallpaper_grass_desc" msgid="7808225799564607409">"Helaian rumput melambai lembut di bawah langit siang atau malam."</string>
-    <string name="wallpaper_galaxy" msgid="4698294375306738428">"Galaksi"</string>
-    <string name="wallpaper_galaxy_author" msgid="5455561260819111338">"Google"</string>
-    <string name="wallpaper_galaxy_desc" msgid="6816969378845338629">"Galaksi bintang berpusaran perlahan."</string>
-    <string name="wallpaper_fall" msgid="1500920940722360941">"Air"</string>
-    <string name="wallpaper_fall_author" msgid="8860429843949521342">"Google"</string>
-    <string name="wallpaper_fall_desc" msgid="595888373487204297">"Daun-daun pepohon berguguran di musim luruh&lt;br&gt; Ke dalam air kolam yang beriak di bawah:&lt;br&gt; Latar cecair Zen"</string>
     <string name="wallpaper_clock" msgid="6555051461698958610">"Jam kutub"</string>
     <string name="wallpaper_clock_author" msgid="8779094427834551330">"Google"</string>
     <string name="wallpaper_clock_desc" msgid="6767980298898740026">"Memperlihatkan tarikh dan masa sebagai lengkok ikut jam: bulan, hari, jam, minit dan saat."</string>
-    <string name="wallpaper_nexus" msgid="3789061608411260304">"Nexus"</string>
-    <string name="wallpaper_nexus_author" msgid="8492858637541249441">"Google"</string>
-    <string name="wallpaper_nexus_desc" msgid="5562598238151885905">"Mengintai ke dalam rangkaian neural."</string>
     <string name="clock_settings" msgid="7837858747417927288">"Tetapan jam kutub"</string>
     <string name="show_seconds" msgid="8525899907567218168">"Tunjukkan saat"</string>
     <string name="variable_line_width" msgid="8487094734462263605">"Pelbagaikan lebar gelang"</string>
