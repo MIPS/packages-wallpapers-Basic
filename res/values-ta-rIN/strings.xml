@@ -26,7 +26,7 @@
     <string name="wallpaper_clock" msgid="6555051461698958610">"போலார் கடிகாரம்"</string>
     <string name="wallpaper_clock_author" msgid="8779094427834551330">"Google"</string>
     <string name="wallpaper_clock_desc" msgid="6767980298898740026">"தேதி மற்றும் நேரத்தை கடிகாரத் திசையில் வழங்குகிறது: மாதம், நாள், மணிநேரம், நிமிடம் மற்றும் வினாடி."</string>
-    <string name="clock_settings" msgid="7837858747417927288">"போலார் கடிகார அமைப்புகள்"</string>
+    <string name="clock_settings" msgid="7837858747417927288">"போலார் கடிகார அமைப்பு"</string>
     <string name="show_seconds" msgid="8525899907567218168">"வினாடிகளைக் காட்டு"</string>
     <string name="variable_line_width" msgid="8487094734462263605">"மாறுபடும் வளைவு அகலங்கள்"</string>
     <string name="palette" msgid="1636154448241520718">"வண்ணத் தட்டு"</string>
